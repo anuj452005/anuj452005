@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj452005&label=Profile%20views&color=0e75b6&style=flat" alt="anuj452005" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://anuj-tripathi.vercel.app/](https://anuj-tripathi.vercel.app/)
+- 
 
 - 📫 How to reach me **officialanuj455@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rGndEvA94VH5saEguGPkUr7jKsiG7EHb/view?usp=sharing](https://drive.google.com/file/d/1rGndEvA94VH5saEguGPkUr7jKsiG7EHb/view?usp=sharing)
 
 - ⚡ Fun fact **I am dead serious**
 
